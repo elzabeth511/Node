@@ -1,0 +1,28 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "course_name": "PYTHON",
+      "description": "Language",
+      "course_fee": "4500",
+      "total_seats": "50",
+      "available_seats": "25"
+    },
+    {
+      "id": 2,
+      "course_name": "testuser2@gmail.com",
+      "description": "testpassword2",
+      "course_fee": "2500",
+      "total_seats": "50",
+      "available_seats": "25"
+    },
+    {
+      "course_name": "JAVA",
+      "description": "Language",
+      "course_fee": "3500",
+      "total_seats": "24",
+      "available_seats": "10",
+      "id": 3
+    }
+  ]
+}
